@@ -1,0 +1,28 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,82,1143,870,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=DAC Op Amp.dat>
+  <DataDisplay=DAC Op Amp.sch>
+  <OpenDisplay=1>
+  <Script=DAC Op Amp.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Tab 293 625 257 446 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 32 315 0 225 "" "" "">
+	<"V_out.V" #0000ff 0 3 1 0 0>
+  </Tab>
+</Diagrams>
+<Paintings>
+</Paintings>
