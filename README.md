@@ -1,1 +1,1 @@
-![Image of schematic](https://github.com/marclave/4bitDACwithOpAmp/circuit-schematic.png)
+![Image of schematic](https://github.com/marclave/4bitDACwithOpAmp/blob/master/circuit-schematic.png)
